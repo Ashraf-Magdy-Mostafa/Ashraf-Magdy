@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ashraf 👋
 
-![Banner Image](https://raw.githubusercontent.com/rzashakeri/beautify-github-profile/main/images/banner.png)
+![Banner Image](https://drive.google.com/file/d/1Cd1H46bVAzeZcYuN0B5Q9WQr-wzwESwd/view?usp=sharing)
 
 ## About Me 🚀
 
