@@ -1,8 +1,4 @@
-Great! Let’s personalize your GitHub README based on your background as a full-stack PERN developer currently in the ALX Software Engineering program, working on projects like the StayEase Airbnb Clone.
 
-Here's a customized version for you:
-
----
 
 # Hi there, I'm Ashraf 👋
 
@@ -15,7 +11,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **PERN stack (Post
 * 🌱 Currently learning: **Advanced Backend Architecture, Django, System Design**
 * 🔭 Working on: **StayEase – a full-stack Airbnb clone (frontend and backend)**
 * 🌍 Languages: **JavaScript, TypeScript, Python, Arabic 🇪🇬, English**
-* 📫 How to reach me: **[ashraf.mostafa.dev@gmail.com](mailto:ashraf.mostafa.dev@gmail.com)**
+* 📫 How to reach me: **[ashrafmagdy926@gmail.com](mailto:ashrafmagdy926@gmail.com)**
 * ⚡ Fun fact: **I love reverse-engineering apps and rebuilding them with modern stacks!**
 
 ## My Skills 🧠
@@ -31,40 +27,23 @@ I'm a passionate **Full-Stack Developer** specializing in the **PERN stack (Post
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
 
-> *More badge inspiration? Check out [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
-### [StayEase Frontend](https://github.com/your-username/stayease-frontend)
+### Airbnb Clone
 
-![StayEase Screenshot](your_screenshot_url_here)
 
-**StayEase** is a responsive, accessible Airbnb-inspired frontend built with **React, CSS Grid/Flexbox, and Tailwind**. It showcases reusable component architecture and seamless UX for property discovery and booking.
+**Front-End** is a responsive, accessible Airbnb-inspired frontend built with **React, CSS Grid/Flexbox, and Tailwind**. It showcases reusable component architecture and seamless UX for property discovery and booking, The **Back-End** powers the frontend with **Node.js, Express, PostgreSQL**, including full CRUD APIs, relational DB modeling, and user authentication flows.
 
-[🔗 View repo](https://github.com/your-username/stayease-frontend)
+[🔗 View repo](https://github.com/Ashraf-Magdy-Mostafa/airbnb-clone-project)
 
 ---
 
-### [StayEase Backend](https://github.com/your-username/stayease-backend)
-
-![StayEase Backend Screenshot](your_screenshot_url_here)
-
-The **StayEase backend** powers the frontend with **Node.js, Express, PostgreSQL**, including full CRUD APIs, relational DB modeling, and user authentication flows.
-
-[🔗 View repo](https://github.com/your-username/stayease-backend)
 
 ## Get in Touch 📬
 
-* 🌐 [Portfolio Website](https://yourwebsite.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-* 🐦 [Twitter/X](https://twitter.com/yourhandle)
 
----
+* 📧 [Email](mailto:ashrafmagdy926@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/ashraf-magdy-webdev/)
+* 🐦 [Twitter/X](https://x.com/ashrafmagdy926)
 
-Would you like me to:
-
-* add dynamic GitHub stats or contribution graphs?
-* create a professional banner for you?
-* generate a Markdown preview link?
-
-Let me know, and I’ll add them right in.
