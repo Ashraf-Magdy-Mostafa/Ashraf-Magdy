@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ashraf 👋
 
-![Banner Image](https://drive.google.com/file/d/1Cd1H46bVAzeZcYuN0B5Q9WQr-wzwESwd/view?usp=sharing)
+![Banner Image](https://github.com/Ashraf-Magdy-Mostafa/Ashraf-Magdy/blob/main/assets/my-banner.png)
 
 ## About Me 🚀
 
