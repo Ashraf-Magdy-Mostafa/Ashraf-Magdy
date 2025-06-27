@@ -10,7 +10,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **PERN stack (Post
 
 * 🌱 Currently learning: **Advanced Backend Architecture, Django, System Design**
 * 🔭 Working on: **StayEase – a full-stack Airbnb clone (frontend and backend)**
-* 🌍 Languages: **JavaScript, TypeScript, Python, Arabic 🇪🇬, English**
+* 🌍 Languages: **JavaScript, TypeScript, Python, React.js**
 * 📫 How to reach me: **[ashrafmagdy926@gmail.com](mailto:ashrafmagdy926@gmail.com)**
 * ⚡ Fun fact: **I love reverse-engineering apps and rebuilding them with modern stacks!**
 
